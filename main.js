@@ -12,3 +12,4 @@ $(document).ready(function() { SC.stream('/tracks/36796353',function(sound){
                   });
 
   });
+});
