@@ -1,7 +1,8 @@
 SC.initialize({
   client_id: '340f063c670272fac27cfa67bffcafc4'
 });
-$(document).ready(function() { SC.stream('/tracks/36796353',function(  $('#start').click(function(e) {
+$(document).ready(function() { SC.stream('/tracks/36796353',function(sound){
+    $('#start').click(function(e) {
            e.preventDefault();
            sound.start();
          });
@@ -11,4 +12,3 @@ $(document).ready(function() { SC.stream('/tracks/36796353',function(  $('#start
                   });
 
   });
-  
