@@ -1,22 +1,197 @@
-
-
 SC.initialize({
-client_id:'95f22ed54a5c297b1c41f72d713623ef'
-
+ client_id: '340f063c670272fac27cfa67bffcafc4'
 });
 
-$(document).ready(function()
-{ SC.stream('/tracks/580908972',function(sound){
-  $('#start').click(function(e) {
-          e.preventDefault();
-          sound.start();
-        });
 
-    $('#stop').click(function(e) {
-                   e.preventDefault();
-                   sound.stop();
-                 });
+$(document).ready(function() {
+ SC.stream('/tracks/586275216',function(sound){
+
+      $("#start1").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop1").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
 });
 });
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/580908972&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+ SC.stream('/tracks/580908972',function(sound){
+
+      $("#start2").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop2").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+
+$(document).ready(function() {
+ SC.stream('/tracks/463807587',function(sound){
+
+      $("#start3").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop3").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+
+$(document).ready(function() {
+ SC.stream('/tracks/572689890',function(sound){
+
+      $("#start4").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop4").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+
+
+$(document).ready(function() {
+ SC.stream('/tracks/572689890',function(sound){
+
+      $("#start5").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop5").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+
+
+$(document).ready(function() {
+ SC.stream('/tracks/572689890',function(sound){
+
+      $("#start6").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop6").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+
+
+$(document).ready(function() {
+ SC.stream('/tracks/572689890',function(sound){
+
+      $("#start7").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop7").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+
+
+$(document).ready(function() {
+ SC.stream('/tracks/572689890',function(sound){
+
+      $("#start8").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop8").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+
+$(document).ready(function() {
+ SC.stream('/tracks/572689890',function(sound){
+
+      $("#start9").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop9").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+$(document).ready(function() {
+ SC.stream('/tracks/572689890',function(sound){
+
+      $("#start10").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop10").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+$(document).ready(function() {
+ SC.stream('/tracks/572689890',function(sound){
+
+      $("#start11").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop11").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
+$(document).ready(function() {
+ SC.stream('/tracks/572689890',function(sound){
+
+      $("#start12").click(function(e) {
+             e.preventDefault();
+             sound.start();
+            });
+
+
+             $("#stop12").click(function(e) {
+                e.preventDefault();
+                sound.stop();
+              });
+});
+});
