@@ -20,7 +20,7 @@ $(document).ready(function() {
 });
 
 
- SC.stream('/tracks/580908972',function(sound){
+ SC.stream('/tracks/345512319',function(sound){
 
       $("#start2").click(function(e) {
              e.preventDefault();
@@ -34,6 +34,11 @@ $(document).ready(function() {
               });
 });
 });
+
+
+
+
+
 
 $(document).ready(function() {
  SC.stream('/tracks/463807587',function(sound){
@@ -52,7 +57,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
- SC.stream('/tracks/572689890',function(sound){
+ SC.stream('/tracks/495051222',function(sound){
 
       $("#start4").click(function(e) {
              e.preventDefault();
@@ -69,7 +74,7 @@ $(document).ready(function() {
 
 
 $(document).ready(function() {
- SC.stream('/tracks/572689890',function(sound){
+ SC.stream('/tracks/345484349',function(sound){
 
       $("#start5").click(function(e) {
              e.preventDefault();
@@ -86,7 +91,7 @@ $(document).ready(function() {
 
 
 $(document).ready(function() {
- SC.stream('/tracks/572689890',function(sound){
+ SC.stream('/tracks/345483113',function(sound){
 
       $("#start6").click(function(e) {
              e.preventDefault();
@@ -102,8 +107,7 @@ $(document).ready(function() {
 });
 
 
-$(document).ready(function() {
- SC.stream('/tracks/572689890',function(sound){
+ SC.stream('/tracks/364718444',function(sound){
 
       $("#start7").click(function(e) {
              e.preventDefault();
@@ -120,7 +124,7 @@ $(document).ready(function() {
 
 
 $(document).ready(function() {
- SC.stream('/tracks/572689890',function(sound){
+ SC.stream('/tracks/345495650',function(sound){
 
       $("#start8").click(function(e) {
              e.preventDefault();
@@ -136,7 +140,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
- SC.stream('/tracks/572689890',function(sound){
+ SC.stream('/tracks/348359524',function(sound){
 
       $("#start9").click(function(e) {
              e.preventDefault();
@@ -150,8 +154,10 @@ $(document).ready(function() {
               });
 });
 });
+
+
 $(document).ready(function() {
- SC.stream('/tracks/572689890',function(sound){
+ SC.stream('/tracks/345542620',function(sound){
 
       $("#start10").click(function(e) {
              e.preventDefault();
@@ -165,8 +171,11 @@ $(document).ready(function() {
               });
 });
 });
+
+
+
 $(document).ready(function() {
- SC.stream('/tracks/572689890',function(sound){
+ SC.stream('/tracks/345532678',function(sound){
 
       $("#start11").click(function(e) {
              e.preventDefault();
@@ -180,8 +189,9 @@ $(document).ready(function() {
               });
 });
 });
+
 $(document).ready(function() {
- SC.stream('/tracks/572689890',function(sound){
+ SC.stream('/tracks/345528518',function(sound){
 
       $("#start12").click(function(e) {
              e.preventDefault();
